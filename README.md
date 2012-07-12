@@ -5,6 +5,7 @@ If you have parts of your Wordpress theme that run slow it may work to cache the
 you can create caches dynamically.
 
 Created by Fused Interactive
+
 [Our Website](http://fusedinteractive.com/) | [Follow us on Twitter](http://twitter.com/fusedinc) | [Like us on Facebook](http://www.facebook.com/fusedinteractive)
 
 Installation
